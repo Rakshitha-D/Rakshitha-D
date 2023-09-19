@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<h3>Reach me through:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/d-rakshitha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
